@@ -1,0 +1,36 @@
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.deps.json
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.AssemblyReference.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfoInputs.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfo.cs
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.CoreCompileInputs.cache
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\refint\ClasificacionPeliculasModel.dll
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\saanl\source\repos\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ref\ClasificacionPeliculasModel.dll
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.deps.json
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\refint\ClasificacionPeliculasModel.dll
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\aylin\OneDrive\Documentos\Noveno ciclo 2023\Programación Web\Ejercicios en clase\CRUD MovieCategories\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ref\ClasificacionPeliculasModel.dll
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.deps.json
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\bin\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.AssemblyReference.cache
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfoInputs.cache
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.AssemblyInfo.cs
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.dll
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\refint\ClasificacionPeliculasModel.dll
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ClasificacionPeliculasModel.pdb
+C:\Users\aylin\Downloads\ClasificacionPeliculas\ClasificacionPeliculasModel\obj\Debug\net7.0\ref\ClasificacionPeliculasModel.dll
